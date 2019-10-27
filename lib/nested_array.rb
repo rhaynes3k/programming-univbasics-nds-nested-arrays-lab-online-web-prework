@@ -40,7 +40,7 @@ end
 
 def matrix_lookup(matrix, row, column)
   [
-      matrix = [
+      matrix_lookup = [
         [
           "Don Gately",
           "Joelle van Dyne",
