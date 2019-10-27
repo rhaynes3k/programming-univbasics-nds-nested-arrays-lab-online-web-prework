@@ -41,7 +41,7 @@ end
 def matrix_lookup(matrix, row, column)
   [
       matrix = [
-        ENNET_HOUSE = [
+        [
           "Don Gately",
           "Joelle van Dyne",
           "Pat M.",
