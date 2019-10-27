@@ -47,9 +47,8 @@ def matrix_lookup(matrix, row, column)
           "Pat M.",
           "Kate Gompert",
           "Bruce Green"
-        ]
-  
-        ENFIELD_TENNIS_ACADEMY = [
+        ],
+        [
           "Hal Incandenza",
           "Lyle",
           "Gerhard Schtitt",
