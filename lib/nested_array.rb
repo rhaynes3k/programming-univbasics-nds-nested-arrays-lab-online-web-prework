@@ -28,7 +28,7 @@ end
 
 def array_literal_matrix
   [
-    nestSort = [
+    array_literal = [
       [ENNET_HOUSE],
       [ENFIELD_TENNIS_ACADEMY]
     ].sort
@@ -39,6 +39,25 @@ def array_literal_matrix
 end
 
 def matrix_lookup(matrix, row, column)
+  [
+      matrix = [
+        ENNET_HOUSE = [
+          "Don Gately",
+          "Joelle van Dyne",
+          "Pat M.",
+          "Kate Gompert",
+          "Bruce Green"
+        ]
+  
+        ENFIELD_TENNIS_ACADEMY = [
+          "Hal Incandenza",
+          "Lyle",
+          "Gerhard Schtitt",
+          "Mario Incandenza",
+          "Michael Pemulis"
+        ]
+      ]
+    ]
   # Return the matrix's content at row and column
 end
 
